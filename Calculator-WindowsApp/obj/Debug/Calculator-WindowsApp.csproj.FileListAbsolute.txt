@@ -1,0 +1,10 @@
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\bin\Debug\Calculator-WindowsApp.exe.config
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\bin\Debug\Calculator-WindowsApp.exe
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\bin\Debug\Calculator-WindowsApp.pdb
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\obj\Debug\Calculator-WindowsApp.csprojAssemblyReference.cache
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\obj\Debug\Calculator_WindowsApp.Form1.resources
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\obj\Debug\Calculator_WindowsApp.Properties.Resources.resources
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\obj\Debug\Calculator-WindowsApp.csproj.GenerateResource.cache
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\obj\Debug\Calculator-WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\obj\Debug\Calculator-WindowsApp.exe
+C:\Users\Mahmo\source\repos\Calculator-WindowsApp\Calculator-WindowsApp\obj\Debug\Calculator-WindowsApp.pdb
